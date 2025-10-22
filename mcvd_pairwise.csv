@@ -1,0 +1,45 @@
+Study,arm,treat,event,nonevent,n,duration
+ACAPS,1,Lovastatin,5,455,460,3
+ACAPS,2,placebo,16,443,459,3
+AFCAPS/TexCAPS,1,Lovastatin,17,3287,3304,5.2
+AFCAPS/TexCAPS,2,placebo,25,3276,3301,5.2
+ALLHAT-LLT,1,Pravastatin,325,767,1092,6
+ALLHAT-LLT,2,placebo,323,726,1049,6
+ASCOT-LLA,1,Atorvastatin,220,4948,5168,3.3
+ASCOT-LLA,2,placebo,324,4813,5137,3.3
+Sever 2011,1,Atorvastatin,124,2110,2234,8
+Sever 2011,2,placebo,131,2067,2198,8
+ASPEN - Primary Prevention,1,Atorvastatin,39,920,959,4.3
+ASPEN - Primary Prevention,2,placebo,40,906,946,4.3
+ASTRONOMER,1,Rosuvastatin,2,132,134,4
+ASTRONOMER,2,placebo,10,125,135,4
+BCAPS,1,Fluvastatin,3,392,395,3
+BCAPS,2,placebo,5,393,398,3
+CARDS,1,Atorvastatin,85,1343,1428,4
+CARDS,2,placebo,137,1273,1410,4
+HOPE-3,1,Rosuvastatin,325,6036,6361,6
+HOPE-3,2,placebo,403,5941,6344,6
+Heljic  et  al. 2009,1,Simvastatin,4,41,45,1
+Heljic  et  al. 2009,2,placebo,9,41,50,1
+JUPITER,1,Rosuvastatin,160,8741,8901,4
+JUPITER,2,placebo,310,8591,8901,4
+KAPS,1,Pravastatin,7,217,224,3
+KAPS,2,placebo,11,212,223,3
+Lewis et al,1,Pravastatin,0.5,159.5,160,0.7
+Lewis et al,2,placebo,2,158,160,0.7
+MEGA,1,Pravastatin,125,3741,3866,5.3
+MEGA,2,placebo,170,3796,3966,5.3
+Mohler,1,Atorvastatin,10,470,480,1
+Mohler,2,placebo,5,223,228,1
+WOSCOPS,1,Pravastatin,233,3069,3302,5
+WOSCOPS,2,placebo,324,2969,3293,5
+Muldoon et al. 2004,1,Simvastatin,1,205,206,0.5
+Muldoon et al. 2004,2,placebo,0.5,101.5,102,0.5
+PHYLLIS,1,Pravastatin,0.5,125.5,126,2.6
+PHYLLIS,2,placebo,3,124,127,2.6
+PMSG-Diabetes,1,Pravastatin,0.5,166.5,167,0.3
+PMSG-Diabetes,2,placebo,1,157,158,0.3
+PREVEND-IT,1,Pravastatin,12,854,866,3.8
+PREVEND-IT,2,placebo,19,843,862,3.8
+RCASS,1,Simvastatin,3,100,103,2
+RCASS,2,placebo,5,95,100,2
