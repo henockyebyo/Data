@@ -1,0 +1,89 @@
+name,r,n,t
+PMSG,0,530,Pravastatin
+PMSG,4,532,Placebo
+4S,320,2221,Simvastatin
+4S,433,2223,Placebo
+MAAS,9,193,Simvastatin
+MAAS,3,188,Placebo
+LIPID,283,4512,Pravastatin
+LIPID,374,4502,Placebo
+GISSI-P,39,2138,Pravastatin
+GISSI-P,41,2133,Placebo
+GREACE,21,800,Atorvastatin
+GREACE,51,800,Placebo
+PMSG-Diabetes,0,167,Pravastatin
+PMSG-Diabetes,1,158,Placebo
+PREDICT,4,347,Pravastatin
+PREDICT,4,348,Placebo
+CIS,1,129,Simvastatin
+CIS,5,125,Placebo
+DISCOVERY-Alpha,2,1002,Rosuvastatin
+DISCOVERY-Alpha,2,504,Atorvastatin
+MARS,4,123,Lovastatin
+MARS,5,124,Placebo
+EXCEL,34,6582,Lovastatin
+EXCEL,17,1663,Placebo
+PLAC-II,2,75,Pravastatin
+PLAC-II,8,76,Placebo
+CARDS,25,1428,Atorvastatin
+CARDS,41,1410,Placebo
+SAGE,18,446,Atorvastatin
+SAGE,17,445,Pravastatin
+ACAPS,5,460,Lovastatin
+ACAPS,5,459,Placebo
+GISSI-HF,51,2285,Rosuvastatin
+GISSI-HF,55,2289,Placebo
+REGRESS,7,450,Pravastatin
+REGRESS,12,434,Placebo
+CAIUS,1,151,Pravastatin
+CAIUS,2,154,Placebo
+PLAC-I,7,206,Pravastatin
+PLAC-I,16,202,Placebo
+Riegger et al. 1999,0,187,Fluvastatin
+Riegger et al. 1999,1,178,Placebo
+CARE,135,2081,Pravastatin
+CARE,173,2078,Placebo
+KAPS,3,224,Pravastatin
+KAPS,6,223,Placebo
+FLARE,3,409,Fluvastatin
+FLARE,10,425,Placebo
+WOSCOPS,143,3302,Pravastatin
+WOSCOPS,204,3293,Placebo
+SCAT,10,230,Simvastatin
+SCAT,9,230,Placebo
+CCAIT,5,165,Lovastatin
+CCAIT,6,166,Placebo
+LRTS,14,203,Lovastatin
+LRTS,5,201,Placebo
+ALLHAT-LTT,220,5170,Pravastatin
+ALLHAT-LTT,259,5185,Placebo
+MRC/BHF Heart Protection Study,357,10269,Simvastatin
+MRC/BHF Heart Protection Study,574,10267,Placebo
+Mohler et al. 2003,6,240,Atorvastatin
+Mohler et al. 2003,3,114,Placebo
+TREAT TO TARGET,0,552,Atorvastatin
+TREAT TO TARGET,1,535,Simvastatin
+FAST,1,83,Pravastatin
+FAST,3,81,Placebo
+LIPS,30,844,Fluvastatin
+LIPS,38,833,Placebo
+PROSPER,222,2891,Pravastatin
+PROSPER,254,2913,Placebo
+CORONA,116,2514,Rosuvastatin
+CORONA,145,2497,Placebo
+SPARCL,43,2365,Atorvastatin
+SPARCL,82,2366,Placebo
+Bae et al. 2004,0,105,Atorvastatin
+Bae et al. 2004,1,100,Placebo
+Durazzo et al. 2004,3,50,Atorvastatin
+Durazzo et al. 2004,8,50,Placebo
+ALLIANCE,52,1217,Atorvastatin
+ALLIANCE,94,1225,Placebo
+PCS,2,54,Pravastatin
+PCS,3,66,Placebo
+MEGA,16,3866,Pravastatin
+MEGA,30,3966,Placebo
+IDEAL,267,4439,Atorvastatin
+IDEAL,321,4449,Simvastatin
+JUPITER,22,8901,Rosuvastatin
+JUPITER,62,8901,Placebo
