@@ -1,0 +1,89 @@
+,name,r,n,t
+1,PMSG,0,530,prava
+2,PMSG,4,532,control
+3,4S,320,2221,simva
+4,4S,433,2223,control
+5,MAAS,9,193,simva
+6,MAAS,3,188,control
+7,LIPID,283,4512,prava
+8,LIPID,374,4502,control
+9,GISSI-P,39,2138,prava
+10,GISSI-P,41,2133,control
+11,GREACE,21,800,atorva
+12,GREACE,51,800,control
+13,PMSG-Diabetes,0,167,prava
+14,PMSG-Diabetes,1,158,control
+15,PREDICT,4,347,prava
+16,PREDICT,4,348,control
+17,CIS,1,129,simva
+18,CIS,5,125,control
+19,DISCOVERY-Alpha,2,1002,rosuva
+20,DISCOVERY-Alpha,2,504,atorva
+21,MARS,4,123,lova
+22,MARS,5,124,control
+23,EXCEL,34,6582,lova
+24,EXCEL,17,1663,control
+25,PLAC-II,2,75,prava
+26,PLAC-II,8,76,control
+27,CARDS,25,1428,atorva
+28,CARDS,41,1410,control
+29,SAGE,18,446,atorva
+30,SAGE,17,445,prava
+31,ACAPS,5,460,lova
+32,ACAPS,5,459,control
+33,GISSI-HF,51,2285,rosuva
+34,GISSI-HF,55,2289,control
+35,REGRESS,7,450,prava
+36,REGRESS,12,434,control
+37,CAIUS,1,151,prava
+38,CAIUS,2,154,control
+39,PLAC-I,7,206,prava
+40,PLAC-I,16,202,control
+41,Riegger et al. 1999,0,187,fluva
+42,Riegger et al. 1999,1,178,control
+43,CARE,135,2081,prava
+44,CARE,173,2078,control
+45,KAPS,3,224,prava
+46,KAPS,6,223,control
+47,FLARE,3,409,fluva
+48,FLARE,10,425,control
+49,WOSCOPS,143,3302,prava
+50,WOSCOPS,204,3293,control
+51,SCAT,10,230,simva
+52,SCAT,9,230,control
+53,CCAIT,5,165,lova
+54,CCAIT,6,166,control
+55,LRTS,14,203,lova
+56,LRTS,5,201,control
+57,ALLHAT-LTT,220,5170,prava
+58,ALLHAT-LTT,259,5185,control
+59,MRC/BHF Heart Protection Study,357,10269,simva
+60,MRC/BHF Heart Protection Study,574,10267,control
+61,Mohler et al. 2003,6,240,atorva
+62,Mohler et al. 2003,3,114,control
+63,TREAT TO TARGET,0,552,atorva
+64,TREAT TO TARGET,1,535,simva
+65,FAST,1,83,prava
+66,FAST,3,81,control
+67,LIPS,30,844,fluva
+68,LIPS,38,833,control
+69,PROSPER,222,2891,prava
+70,PROSPER,254,2913,control
+71,CORONA,116,2514,rosuva
+72,CORONA,145,2497,control
+73,SPARCL,43,2365,atorva
+74,SPARCL,82,2366,control
+75,Bae et al. 2004,0,105,atorva
+76,Bae et al. 2004,1,100,control
+77,Durazzo et al. 2004,3,50,atorva
+78,Durazzo et al. 2004,8,50,control
+79,ALLIANCE,52,1217,atorva
+80,ALLIANCE,94,1225,control
+81,PCS,2,54,prava
+82,PCS,3,66,control
+83,MEGA,16,3866,prava
+84,MEGA,30,3966,control
+85,IDEAL,267,4439,atorva
+86,IDEAL,321,4449,simva
+87,JUPITER,22,8901,rosuva
+88,JUPITER,62,8901,control
